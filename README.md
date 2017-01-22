@@ -36,8 +36,12 @@ Rover made out tiny computers, electrical components, and duct tape for U of T h
 9. Mount the battery pack, Raspberry Pi, and Arduino Uno on the rover
 10. Connect the Raspberry Pi to the battery pack, then connect the Arduino Uno to the Raspberry Pi
 11. Connect the motor, claw, and buzzer circuits to the Arduino Uno. Follow the pinout in the code or change the code accordingly.
+12. Connect the Raspberry Pi camera to the Raspberry Pi
 12. Power up the Raspberry Pi and run the code
 
 ### Code Instructions
 1. Upload rover_controller.ino to the Arduino Uno in the /Arduino/rover_controller directory
 2. Run the rover_controller.py script on the Raspberry Pi in the /RaspberryPi directory
+
+### Images
+<img src=https://github.com/cmjten/UofT-Hacks-Rover/blob/master/images/20170122_060522.jpg width=600/>
