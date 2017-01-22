@@ -40,7 +40,7 @@ Rover made out tiny computers, electrical components, and duct tape for U of T h
 12. Power up the Raspberry Pi and run the code
 
 ### Code Instructions
-1. Upload rover_controller.ino to the Arduino Uno in the /Arduino/rover_controller directory
+1. Upload rover_control.ino to the Arduino Uno in the /Arduino/rover_control directory
 2. Run the rover_controller.py script on the Raspberry Pi in the /RaspberryPi directory
 
 ### Images
