@@ -1,6 +1,6 @@
 # UofT-Hacks-Rover
 
-Rover made out tiny computers, electrical components, and duct tape for U of T hacks.
+Rover made out of tiny computers, electrical components, and duct tape for U of T hacks.
 
 ###[Demo Video 1](https://vimeo.com/200539136)
 
