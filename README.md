@@ -2,9 +2,9 @@
 
 Rover made out of tiny computers, electrical components, and duct tape for U of T hacks.
 
-###[Demo Video 1](https://vimeo.com/200539136)
+### [Demo Video 1](https://vimeo.com/200539136)
 
-###[Demo Video 2](https://vimeo.com/200539681)
+### [Demo Video 2](https://vimeo.com/200539681)
 
 ### Components
 - Arduino Uno
@@ -44,4 +44,4 @@ Rover made out of tiny computers, electrical components, and duct tape for U of 
 2. Run the rover_controller.py script on the Raspberry Pi in the /RaspberryPi directory
 
 ### Images
-<img src=https://github.com/cmjten/UofT-Hacks-Rover/blob/master/images/20170122_060522.jpg width=600/>
+<img src=./images/20170122_060522.jpg width=600/>
